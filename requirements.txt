@@ -1,0 +1,7 @@
+flask
+flask-mysqldb
+
+# ubuntu - run below commands to install mysql and flask-mysqldb
+#sudo apt-get install mysql-server
+#sudo apt-get install libmysqlclient-dev
+#pip3 install flask-mysqldb
